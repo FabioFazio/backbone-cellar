@@ -1,0 +1,17 @@
+body
+{
+  padding-top: 60px;
+ /* 60px to make the container go all the way to the bottom of the topbar */
+}
+
+/* Legacy */
+        
+a.plain:link
+{ color: #333; text-decoration: none }
+a.plain:active
+{ color: #333; text-decoration: none }
+a.plain:visited
+{ color: #333; text-decoration: none }
+a.plain:hover
+{ color: #333; text-decoration: none }
+
